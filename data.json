@@ -1,0 +1,576 @@
+[
+    {
+        "image": "images/text.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.06, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.10, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.61, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.23, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.47,
+        "average_arousal": -0.18
+    },
+    {
+        "image": "images/image1.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.01, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.99, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.60,
+        "average_arousal": -0.49
+    },
+    {
+        "image": "images/image2.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.06, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.10, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.20, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.44, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.13, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.07, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.15,
+        "average_arousal": 0.13
+    },
+    {
+        "image": "images/image3.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 1.00, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": 0.80,
+        "average_arousal": 0.60
+    },
+    {
+        "image": "images/image4.webp",
+        "emotions": {
+            "angry": {"confidence": 0.01, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.05, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.55, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.39, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.37,
+        "average_arousal": -0.23
+    },
+    {
+        "image": "images/image5.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.07, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.17, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.03, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.11, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.28, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.35, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.06,
+        "average_arousal": 0.37
+    },
+    {
+        "image": "images/image6.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.26, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.30, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.39, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.01, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.04, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.62,
+        "average_arousal": 0.26
+    },
+    {
+        "image": "images/image7.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.04, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.09, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.02, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.40, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.21, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.24, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": -0.21,
+        "average_arousal": 0.08
+    },
+    {
+        "image": "images/image8.jpg",
+        "emotions": {
+            "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+            "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+            "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+            "happy": {"confidence": 0.93, "valence": 0.8, "arousal": 0.6},
+            "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+            "surprise": {"confidence": 0.07, "valence": 0.5, "arousal": 0.8},
+            "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+        },
+        "average_valence": 0.78,
+        "average_arousal": 0.61
+    },
+    {
+    "image": "images/image9.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.01, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.07, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.90, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.02, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.40,
+    "average_arousal": 0.78
+},
+{
+    "image": "images/image10.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.30, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.01, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.17, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.03, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.48, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.34,
+    "average_arousal": 0.22
+},
+{
+    "image": "images/image11.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.06, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.94, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.43,
+    "average_arousal": 0.79
+},
+{
+    "image": "images/image12.webp",
+    "emotions": {
+        "angry": {"confidence": 0.23, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.55, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.04, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.10, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.01, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.07, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.54,
+    "average_arousal": 0.57
+},
+{
+    "image": "images/image13.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.02, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.03, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.08, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.87, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.08,
+    "average_arousal": -0.00
+},
+{
+    "image": "images/image14.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.01, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.06, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.92, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.42,
+    "average_arousal": 0.79
+},
+{
+    "image": "images/image15.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.65, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.32, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.02, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.73,
+    "average_arousal": 0.81
+},
+{
+    "image": "images/image16.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.97, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.02, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.01, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.79,
+    "average_arousal": 0.88
+},
+{
+    "image": "images/image17.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.19, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.81, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.29,
+    "average_arousal": 0.78
+},
+{
+    "image": "images/image18.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.36, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.06, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.01, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.33, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.23, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.54,
+    "average_arousal": 0.14
+},
+{
+    "image": "images/image19.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.02, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.97, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.48,
+    "average_arousal": 0.80
+},
+{
+    "image": "images/image20.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.10, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.59, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.07, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.06, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.19, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.44,
+    "average_arousal": 0.51
+},
+{
+    "image": "images/image21.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.10, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.70, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.01, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.18, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.48,
+    "average_arousal": -0.27
+},
+{
+    "image": "images/image22.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.31, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.48, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.13, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.01, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.07, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.61,
+    "average_arousal": 0.56
+},
+{
+    "image": "images/image23.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.06, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.12, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.62, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.20, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.49,
+    "average_arousal": -0.17
+},
+{
+    "image": "images/image24.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.15, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.58, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.18, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.09, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.58,
+    "average_arousal": 0.45
+},
+{
+    "image": "images/image25.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.40, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.01, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.24, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.30, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.05, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.65,
+    "average_arousal": 0.37
+},
+{
+    "image": "images/image26.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 1.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.80,
+    "average_arousal": 0.60
+},
+{
+    "image": "images/image27.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.03, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.04, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.93, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.42,
+    "average_arousal": 0.80
+},
+{
+    "image": "images/image28.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.99, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.80,
+    "average_arousal": 0.60
+},
+{
+    "image": "images/image29.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.00, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 1.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.80,
+    "average_arousal": 0.60
+},
+{
+    "image": "images/image30.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.06, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.02, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.07, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.34, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.06, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.28, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.17, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.27,
+    "average_arousal": 0.49
+},
+{
+    "image": "images/image31.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.03, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.02, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.01, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.03, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.92, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.05,
+    "average_arousal": 0.03
+},
+{
+    "image": "images/image32.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.53, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.02, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.36, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.03, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.05, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.17,
+    "average_arousal": 0.68
+},
+{
+    "image": "images/image33.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.09, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.12, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.07, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.07, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.28, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.37, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": 0.01,
+    "average_arousal": 0.40
+},
+{
+    "image": "images/image34.webp",
+    "emotions": {
+        "angry": {"confidence": 0.63, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.03, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.29, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.04, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.70,
+    "average_arousal": 0.45
+},
+{
+    "image": "images/image35.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.95, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.00, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.04, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.01, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.78,
+    "average_arousal": 0.83
+},
+{
+    "image": "images/image36.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.85, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.03, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.10, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.02, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.76,
+    "average_arousal": 0.74
+},
+{
+    "image": "images/image37.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.87, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.05, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.05, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.02, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.01, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.75,
+    "average_arousal": 0.81
+},
+{
+    "image": "images/image38.webp",
+    "emotions": {
+        "angry": {"confidence": 0.02, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.01, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.04, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.01, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.51, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.01, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.41, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.34,
+    "average_arousal": -0.20
+},
+{
+    "image": "images/image39.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.09, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.00, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.02, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.02, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.38, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.01, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.48, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.29,
+    "average_arousal": -0.08
+},
+{
+    "image": "images/image40.jpg",
+    "emotions": {
+        "angry": {"confidence": 0.94, "valence": -0.8, "arousal": 0.9},
+        "disgust": {"confidence": 0.04, "valence": -0.7, "arousal": -0.4},
+        "fear": {"confidence": 0.02, "valence": -0.6, "arousal": 0.7},
+        "happy": {"confidence": 0.00, "valence": 0.8, "arousal": 0.6},
+        "sad": {"confidence": 0.00, "valence": -0.6, "arousal": -0.5},
+        "surprise": {"confidence": 0.00, "valence": 0.5, "arousal": 0.8},
+        "neutral": {"confidence": 0.00, "valence": 0.0, "arousal": 0.0}
+    },
+    "average_valence": -0.79,
+    "average_arousal": 0.84
+}
+]
